@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning lot of stuffs in programing as well as scripting language  ...
 - 💞️ I’m looking to collaborate on open source projects...
 - 📫 How to reach me 
-- Email: vijeesh@mocoitlabs.com, mr.vijeeshkumar@gmail.com
+- Email:mr.vijeeshkumar@gmail.com
 - Phone: +91 944 6625 898
 
 <!---
