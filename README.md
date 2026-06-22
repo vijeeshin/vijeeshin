@@ -1,4 +1,4 @@
-# Hi, I'm Vijeesh Kumar 👋
+# Hi, I'm Vigeesh Kumar 👋
 
 ## About Me
 
