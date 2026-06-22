@@ -63,7 +63,7 @@ I am always interested in collaborating on open-source projects, enterprise appl
 
 📧 Email: [mr.vijeeshkumar@gmail.com](mailto:mr.vijeeshkumar@gmail.com)
 
-💼 LinkedIn: Add your LinkedIn profile here
+💼 LinkedIn: https://www.linkedin.com/in/vigeesh-kumar-vg
 
 🌐 GitHub: github.com/vijeeshin
 
