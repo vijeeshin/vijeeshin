@@ -1,12 +1,70 @@
-- 👋 Hi, I’m @vijeeshin
-- 👀 I’m interested in Web/Software Development ...
-- 🌱 I’m currently learning lot of stuffs in programing as well as scripting language  ...
-- 💞️ I’m looking to collaborate on open source projects...
-- 📫 How to reach me 
-- Email:mr.vijeeshkumar@gmail.com
-- Phone: +91 944 6625 898
+# Hi, I'm Vijeesh Kumar 👋
 
-<!---
-vijeeshin/vijeeshin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+Experienced Software Developer with over 15 years of experience in designing, developing, and delivering scalable web, mobile, and enterprise applications. Passionate about full-stack development, software architecture, cloud technologies, cybersecurity, artificial intelligence, and automation.
+
+I enjoy building innovative solutions, exploring emerging technologies, and contributing to projects that create real business value.
+
+## Areas of Interest
+
+* Full Stack Web Development
+* Enterprise Software Solutions
+* Artificial Intelligence & Machine Learning
+* Cybersecurity & SIEM Technologies
+* Cloud Computing & DevOps
+* IoT, Industrial Automation & Industry 4.0
+* Open Source Development
+
+## Currently Exploring
+
+* AI-powered Business Applications
+* Large Language Models (LLMs)
+* Vector Databases & Knowledge Systems
+* Industrial Data Platforms
+* Cybersecurity Monitoring & Threat Detection
+* Advanced Automation and Integration Technologies
+
+## Technical Skills
+
+**Languages & Frameworks**
+
+* JavaScript / TypeScript
+* Node.js
+* React.js
+* React Native
+* Java
+* Python
+* C#
+
+**Databases**
+
+* PostgreSQL
+* MySQL
+* Microsoft SQL Server
+
+**Tools & Technologies**
+
+* Docker
+* Git & GitHub
+* Prisma
+* NestJS
+* Linux
+* REST APIs
+* MQTT
+* Kafka
+* Elasticsearch / OpenSearch
+
+## Open Source
+
+I am always interested in collaborating on open-source projects, enterprise applications, AI solutions, and innovative technology initiatives.
+
+## Connect With Me
+
+📧 Email: [mr.vijeeshkumar@gmail.com](mailto:mr.vijeeshkumar@gmail.com)
+
+💼 LinkedIn: Add your LinkedIn profile here
+
+🌐 GitHub: github.com/vijeeshin
+
+📱 Contact: Available upon request
